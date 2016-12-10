@@ -1,0 +1,3689 @@
+fileFormatVersion: 2
+guid: 625ee597749653d4b9b33c2f022e5f2d
+timeCreated: 1480733871
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Robot1_Up1
+    21300002: Robot1_Up2
+    21300004: Robot1_Up3
+    21300006: Robot1_Up4
+    21300008: Robot1_Up5
+    21300010: Robot1_Up6
+    21300012: Robot1_Up7
+    21300014: Robot1_Up8
+    21300016: Robot1_Up9
+    21300018: CharacterSpriteSheet_9
+    21300020: CharacterSpriteSheet_10
+    21300022: Robot1Hacked_Down1
+    21300024: Robot1Hacked_Down2
+    21300026: Robot1Hacked_Down3
+    21300028: Robot1Hacked_Down4
+    21300030: Robot1Hacked_Down5
+    21300032: Robot1Hacked_Down6
+    21300034: Robot1Hacked_Down7
+    21300036: Robot1Hacked_Down8
+    21300038: Robot1Hacked_Down9
+    21300040: CharacterSpriteSheet_20
+    21300042: CharacterSpriteSheet_21
+    21300044: Robot1Hacked_Right1
+    21300046: Robot1Hacked_Right2
+    21300048: Robot1Hacked_Right3
+    21300050: Robot1Hacked_Right4
+    21300052: Robot1Hacked_Right5
+    21300054: Robot1Hacked_Right6
+    21300056: Robot1Hacked_Right7
+    21300058: Robot1Hacked_Right8
+    21300060: Robot1Hacked_Right9
+    21300062: CharacterSpriteSheet_31
+    21300064: CharacterSpriteSheet_32
+    21300066: Robot1Hacked__Shoot_Right1
+    21300068: Robot1Hacked__Shoot_Right2
+    21300070: Robot1Hacked__Shoot_Right3
+    21300072: Robot1Hacked__Shoot_Right4
+    21300074: Robot1Hacked__Shoot_Right5
+    21300076: Robot1Hacked__Shoot_Right6
+    21300078: Robot1Hacked__Shoot_Right7
+    21300080: Robot1Hacked__Shoot_Right8
+    21300082: Robot1Hacked__Shoot_Right9
+    21300084: Robot1Hacked__Shoot_Right10
+    21300086: CharacterSpriteSheet_43
+    21300088: Robot1_Down1
+    21300090: Robot1_Down2
+    21300092: Robot1_Down3
+    21300094: Robot1_Down4
+    21300096: Robot1_Down5
+    21300098: Robot1_Down6
+    21300100: Robot1_Down7
+    21300102: Robot1_Down8
+    21300104: Robot1_Down9
+    21300106: CharacterSpriteSheet_53
+    21300108: CharacterSpriteSheet_54
+    21300110: Robot1_Right1
+    21300112: Robot1_Right2
+    21300114: Robot1_Right3
+    21300116: Robot1_Right4
+    21300118: Robot1_Right5
+    21300120: Robot1_Right6
+    21300122: Robot1_Right7
+    21300124: Robot1_Right8
+    21300126: Robot1_Right9
+    21300128: CharacterSpriteSheet_64
+    21300130: CharacterSpriteSheet_65
+    21300132: Robot1_Shoot_Right1
+    21300134: Robot1_Shoot_Right2
+    21300136: Robot1_Shoot_Right3
+    21300138: Robot1_Shoot_Right4
+    21300140: Robot1_Shoot_Right5
+    21300142: Robot1_Shoot_Right6
+    21300144: Robot1_Shoot_Right7
+    21300146: Robot1_Shoot_Right8
+    21300148: Robot1_Shoot_Right9
+    21300150: Robot1_Shoot_Right10
+    21300152: CharacterSpriteSheet_76
+    21300154: Robot2_Up1
+    21300156: Robot2_Up2
+    21300158: Robot2_Up3
+    21300160: Robot2_Up4
+    21300162: Robot2_Up5
+    21300164: Robot2_Up6
+    21300166: Robot2_Up7
+    21300168: Robot2_Up8
+    21300170: Robot2_Up9
+    21300172: CharacterSpriteSheet_86
+    21300174: CharacterSpriteSheet_87
+    21300176: Robot2_Down1
+    21300178: Robot2_Down2
+    21300180: Robot2_Down3
+    21300182: Robot2_Down4
+    21300184: Robot2_Down5
+    21300186: Robot2_Down6
+    21300188: Robot2_Down7
+    21300190: Robot2_Down8
+    21300192: Robot2_Down9
+    21300194: CharacterSpriteSheet_97
+    21300196: CharacterSpriteSheet_98
+    21300198: Robot2_Right1
+    21300200: Robot2_Right2
+    21300202: Robot2_Right3
+    21300204: Robot2_Right4
+    21300206: Robot2_Right5
+    21300208: Robot2_Right6
+    21300210: Robot2_Right7
+    21300212: Robot2_Right8
+    21300214: Robot2_Right9
+    21300216: CharacterSpriteSheet_108
+    21300218: CharacterSpriteSheet_109
+    21300220: Robot2_Shoot_Right1
+    21300222: Robot2_Shoot_Right2
+    21300224: Robot2_Shoot_Right3
+    21300226: Robot2_Shoot_Right4
+    21300228: Robot2_Shoot_Right5
+    21300230: Robot2_Shoot_Right6
+    21300232: Robot2_Shoot_Right7
+    21300234: Robot2_Shoot_Right8
+    21300236: Robot2_Shoot_Right9
+    21300238: Robot2_Shoot_Right10
+    21300240: CharacterSpriteSheet_120
+    21300242: Player_Down1
+    21300244: Player_Down2
+    21300246: Player_Down3
+    21300248: Player_Down4
+    21300250: Player_Down5
+    21300252: Player_Down6
+    21300254: Player_Down7
+    21300256: Player_Down8
+    21300258: CharacterSpriteSheet_129
+    21300260: CharacterSpriteSheet_130
+    21300262: CharacterSpriteSheet_131
+    21300264: Player_Right1
+    21300266: Player_Right2
+    21300268: Player_Right3
+    21300270: Player_Right4
+    21300272: Player_Right5
+    21300274: Player_Right6
+    21300276: Player_Right7
+    21300278: Player_Right8
+    21300280: Player_Right9
+    21300282: CharacterSpriteSheet_141
+    21300284: CharacterSpriteSheet_142
+    21300286: Player_Up1
+    21300288: Player_Up2
+    21300290: Player_Up3
+    21300292: Player_Up4
+    21300294: Player_Up5
+    21300296: Player_Up6
+    21300298: Player_Up7
+    21300300: Player_Up8
+    21300302: CharacterSpriteSheet_151
+    21300304: CharacterSpriteSheet_152
+    21300306: CharacterSpriteSheet_153
+    21300308: Robot1_Shoot_Up1
+    21300310: Robot1_Shoot_Up2
+    21300312: Robot1_Shoot_Up3
+    21300314: Robot1_Shoot_Up4
+    21300316: Robot1_Shoot_Up5
+    21300318: Robot1_Shoot_Up6
+    21300320: Robot1_Shoot_Up7
+    21300322: Robot1_Shoot_Up8
+    21300324: Robot1_Shoot_Up9
+    21300326: Robot1_Shoot_Up10
+    21300328: CharacterSpriteSheet_164
+    21300330: Robot1Hacked_Shoot_Down1
+    21300332: Robot1Hacked_Shoot_Down2
+    21300334: Robot1Hacked_Shoot_Down3
+    21300336: Robot1Hacked_Shoot_Down4
+    21300338: Robot1Hacked_Shoot_Down5
+    21300340: Robot1Hacked_Shoot_Down6
+    21300342: Robot1Hacked_Shoot_Down7
+    21300344: Robot1Hacked_Shoot_Down8
+    21300346: Robot1Hacked_Shoot_Down9
+    21300348: Robot1Hacked_Shoot_Down10
+    21300350: Robot1_Shoot_Down1
+    21300352: Robot1_Shoot_Down2
+    21300354: Robot1_Shoot_Down3
+    21300356: Robot1_Shoot_Down4
+    21300358: Robot1_Shoot_Down5
+    21300360: Robot1_Shoot_Down6
+    21300362: Robot1_Shoot_Down7
+    21300364: Robot1_Shoot_Down8
+    21300366: Robot1_Shoot_Down9
+    21300368: Robot1_Shoot_Down10
+    21300370: Robot2_Shoot_Up1
+    21300372: Robot2_Shoot_Up2
+    21300374: Robot2_Shoot_Up3
+    21300376: Robot2_Shoot_Up4
+    21300378: Robot2_Shoot_Up5
+    21300380: Robot2_Shoot_Up6
+    21300382: Robot2_Shoot_Up7
+    21300384: Robot2_Shoot_Up8
+    21300386: Robot2_Shoot_Up9
+    21300388: Robot2_Shoot_Up10
+    21300390: Robot2_Shoot_Down1
+    21300392: Robot2_Shoot_Down2
+    21300394: Robot2_Shoot_Down3
+    21300396: Robot2_Shoot_Down4
+    21300398: Robot2_Shoot_Down5
+    21300400: Robot2_Shoot_Down6
+    21300402: Robot2_Shoot_Down7
+    21300404: Robot2_Shoot_Down8
+    21300406: Robot2_Shoot_Down9
+    21300408: Robot2_Shoot_Down10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Robot1_Up1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 13}
+        - {x: -12, y: 8}
+        - {x: -12, y: -14}
+        - {x: -9, y: -16}
+        - {x: 11, y: -16}
+        - {x: 12, y: -13}
+        - {x: 12, y: 8}
+        - {x: 6, y: 13}
+    - name: Robot1_Up2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 13}
+        - {x: -10, y: 11}
+        - {x: -12, y: 6}
+        - {x: -12, y: -5}
+        - {x: -11, y: -8}
+        - {x: -6, y: -16}
+        - {x: 10, y: -16}
+        - {x: 12, y: -11}
+        - {x: 12, y: 9}
+        - {x: 9, y: 13}
+    - name: Robot1_Up3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 13}
+        - {x: -8, y: 9}
+        - {x: -12, y: 4}
+        - {x: -12, y: -3}
+        - {x: -9, y: -15}
+        - {x: -6, y: -16}
+        - {x: 10, y: -16}
+        - {x: 12, y: -9}
+        - {x: 12, y: 6}
+        - {x: 4, y: 13}
+    - name: Robot1_Up4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 13}
+        - {x: -10, y: 11}
+        - {x: -12, y: 6}
+        - {x: -12, y: -5}
+        - {x: -11, y: -8}
+        - {x: -6, y: -16}
+        - {x: 10, y: -16}
+        - {x: 12, y: -11}
+        - {x: 12, y: 9}
+        - {x: 9, y: 13}
+    - name: Robot1_Up5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 13}
+        - {x: -12, y: 8}
+        - {x: -12, y: -14}
+        - {x: -9, y: -16}
+        - {x: 11, y: -16}
+        - {x: 12, y: -13}
+        - {x: 12, y: 8}
+        - {x: 6, y: 13}
+    - name: Robot1_Up6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 13}
+        - {x: -12, y: 5}
+        - {x: -12, y: -3}
+        - {x: -7, y: -16}
+        - {x: 8, y: -16}
+        - {x: 12, y: -9}
+        - {x: 12, y: 3}
+        - {x: 6, y: 13}
+    - name: Robot1_Up7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 13}
+        - {x: -12, y: 6}
+        - {x: -12, y: -6}
+        - {x: -8, y: -16}
+        - {x: 10, y: -16}
+        - {x: 12, y: -10}
+        - {x: 12, y: 7}
+        - {x: 6, y: 13}
+    - name: Robot1_Up8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 13}
+        - {x: -12, y: 5}
+        - {x: -12, y: -3}
+        - {x: -7, y: -16}
+        - {x: 8, y: -16}
+        - {x: 12, y: -9}
+        - {x: 12, y: 3}
+        - {x: 6, y: 13}
+    - name: Robot1_Up9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 608
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 13}
+        - {x: -12, y: 8}
+        - {x: -12, y: -14}
+        - {x: -9, y: -16}
+        - {x: 11, y: -16}
+        - {x: 12, y: -13}
+        - {x: 12, y: 8}
+        - {x: 6, y: 13}
+    - name: Robot1Hacked_Down1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 13}
+        - {x: -4, y: 13}
+        - {x: -10, y: 11}
+        - {x: -12, y: 9}
+        - {x: -12, y: -12}
+        - {x: -11, y: -16}
+        - {x: 11, y: -16}
+        - {x: 12, y: -10}
+        - {x: 12, y: 6}
+    - name: Robot1Hacked_Down2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 13}
+        - {x: -8, y: 9}
+        - {x: -12, y: 3}
+        - {x: -12, y: -13}
+        - {x: -6, y: -16}
+        - {x: 11, y: -16}
+        - {x: 12, y: -11}
+        - {x: 12, y: 5}
+        - {x: 5, y: 13}
+    - name: Robot1Hacked_Down3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 13}
+        - {x: -8, y: 13}
+        - {x: -12, y: 9}
+        - {x: -12, y: -12}
+        - {x: -10, y: -16}
+        - {x: 7, y: -16}
+        - {x: 12, y: -8}
+        - {x: 12, y: 6}
+        - {x: 11, y: 11}
+    - name: Robot1Hacked_Down4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 13}
+        - {x: -8, y: 9}
+        - {x: -12, y: 3}
+        - {x: -12, y: -13}
+        - {x: -6, y: -16}
+        - {x: 11, y: -16}
+        - {x: 12, y: -11}
+        - {x: 12, y: 5}
+        - {x: 5, y: 13}
+    - name: Robot1Hacked_Down5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 13}
+        - {x: -4, y: 13}
+        - {x: -10, y: 11}
+        - {x: -12, y: 9}
+        - {x: -12, y: -12}
+        - {x: -11, y: -16}
+        - {x: 11, y: -16}
+        - {x: 12, y: -10}
+        - {x: 12, y: 6}
+    - name: Robot1Hacked_Down6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 13}
+        - {x: -10, y: 11}
+        - {x: -12, y: 8}
+        - {x: -12, y: -12}
+        - {x: -11, y: -16}
+        - {x: 9, y: -16}
+        - {x: 12, y: -6}
+        - {x: 12, y: 6}
+        - {x: 8, y: 13}
+    - name: Robot1Hacked_Down7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 13}
+        - {x: -9, y: 13}
+        - {x: -12, y: 9}
+        - {x: -12, y: -10}
+        - {x: -9, y: -16}
+        - {x: 6, y: -16}
+        - {x: 12, y: -6}
+        - {x: 12, y: 2}
+        - {x: 10, y: 11}
+    - name: Robot1Hacked_Down8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 13}
+        - {x: -10, y: 11}
+        - {x: -12, y: 8}
+        - {x: -12, y: -12}
+        - {x: -11, y: -16}
+        - {x: 9, y: -16}
+        - {x: 12, y: -6}
+        - {x: 12, y: 6}
+        - {x: 8, y: 13}
+    - name: Robot1Hacked_Down9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 13}
+        - {x: -4, y: 13}
+        - {x: -10, y: 11}
+        - {x: -12, y: 9}
+        - {x: -12, y: -12}
+        - {x: -11, y: -16}
+        - {x: 11, y: -16}
+        - {x: 12, y: -10}
+        - {x: 12, y: 6}
+    - name: Robot1Hacked_Right1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 12}
+        - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: -10, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 6}
+        - {x: 6, y: 12}
+    - name: Robot1Hacked_Right2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 12}
+        - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: -10, y: -16}
+        - {x: 8, y: -16}
+        - {x: 10, y: -13}
+        - {x: 10, y: 11}
+        - {x: 5, y: 12}
+    - name: Robot1Hacked_Right3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 12}
+        - {x: -12, y: 3}
+        - {x: -12, y: -9}
+        - {x: -11, y: -13}
+        - {x: -9, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 5}
+        - {x: 6, y: 12}
+    - name: Robot1Hacked_Right4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 12}
+        - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: -10, y: -16}
+        - {x: 8, y: -16}
+        - {x: 10, y: -13}
+        - {x: 10, y: 11}
+        - {x: 5, y: 12}
+    - name: Robot1Hacked_Right5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 12}
+        - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: -10, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 6}
+        - {x: 6, y: 12}
+    - name: Robot1Hacked_Right6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 8}
+        - {x: 4, y: 12}
+        - {x: -4, y: 12}
+        - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: -10, y: -16}
+        - {x: 9, y: -16}
+        - {x: 10, y: -14}
+        - {x: 10, y: 0}
+    - name: Robot1Hacked_Right7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 12}
+        - {x: -12, y: 5}
+        - {x: -12, y: -8}
+        - {x: -9, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 5}
+        - {x: 6, y: 12}
+    - name: Robot1Hacked_Right8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 8}
+        - {x: 4, y: 12}
+        - {x: -4, y: 12}
+        - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: -10, y: -16}
+        - {x: 9, y: -16}
+        - {x: 10, y: -14}
+        - {x: 10, y: 0}
+    - name: Robot1Hacked_Right9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 12}
+        - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: -10, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 6}
+        - {x: 6, y: 12}
+    - name: Robot1Hacked__Shoot_Right1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 12}
+        - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: -10, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 6}
+        - {x: 6, y: 12}
+    - name: Robot1Hacked__Shoot_Right2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 12}
+        - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: -7, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 5}
+        - {x: 7, y: 12}
+    - name: Robot1Hacked__Shoot_Right3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 12}
+        - {x: -12, y: 6}
+        - {x: -12, y: -8}
+        - {x: -8, y: -16}
+        - {x: 9, y: -16}
+        - {x: 10, y: -14}
+        - {x: 10, y: 10}
+        - {x: 4, y: 12}
+    - name: Robot1Hacked__Shoot_Right4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 12}
+        - {x: -12, y: 6}
+        - {x: -12, y: -8}
+        - {x: -8, y: -16}
+        - {x: 9, y: -16}
+        - {x: 10, y: -14}
+        - {x: 10, y: 10}
+        - {x: 4, y: 12}
+    - name: Robot1Hacked__Shoot_Right5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 12}
+        - {x: -12, y: 6}
+        - {x: -12, y: -8}
+        - {x: -8, y: -16}
+        - {x: 9, y: -16}
+        - {x: 10, y: -14}
+        - {x: 10, y: 10}
+        - {x: 4, y: 12}
+    - name: Robot1Hacked__Shoot_Right6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 12}
+        - {x: -12, y: 6}
+        - {x: -12, y: -8}
+        - {x: -8, y: -16}
+        - {x: 9, y: -16}
+        - {x: 10, y: -14}
+        - {x: 10, y: 10}
+        - {x: 4, y: 12}
+    - name: Robot1Hacked__Shoot_Right7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 12}
+        - {x: -10, y: 10}
+        - {x: -12, y: 7}
+        - {x: -12, y: -8}
+        - {x: -8, y: -16}
+        - {x: 9, y: -16}
+        - {x: 16, y: -7}
+        - {x: 16, y: 5}
+        - {x: 9, y: 12}
+    - name: Robot1Hacked__Shoot_Right8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 12}
+        - {x: -12, y: 6}
+        - {x: -12, y: -8}
+        - {x: -8, y: -16}
+        - {x: 9, y: -16}
+        - {x: 10, y: -14}
+        - {x: 10, y: 10}
+        - {x: 4, y: 12}
+    - name: Robot1Hacked__Shoot_Right9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 12}
+        - {x: -12, y: 6}
+        - {x: -12, y: -8}
+        - {x: -8, y: -16}
+        - {x: 9, y: -16}
+        - {x: 10, y: -14}
+        - {x: 10, y: 10}
+        - {x: 4, y: 12}
+    - name: Robot1Hacked__Shoot_Right10
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 12}
+        - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: -10, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 6}
+        - {x: 6, y: 12}
+    - name: Robot1_Down1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 12}
+        - {x: -4, y: 12}
+        - {x: -8, y: 8}
+        - {x: -12, y: 3}
+        - {x: -12, y: -13}
+        - {x: -8, y: -16}
+        - {x: 7, y: -16}
+        - {x: 12, y: -8}
+        - {x: 12, y: 0}
+        - {x: 9, y: 9}
+    - name: Robot1_Down2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 12}
+        - {x: -8, y: 8}
+        - {x: -12, y: 2}
+        - {x: -12, y: -7}
+        - {x: -11, y: -13}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 12, y: -13}
+        - {x: 12, y: 5}
+        - {x: 6, y: 12}
+    - name: Robot1_Down3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 12}
+        - {x: -12, y: -16}
+        - {x: 9, y: -16}
+        - {x: 12, y: -12}
+        - {x: 12, y: 3}
+        - {x: 7, y: 12}
+    - name: Robot1_Down4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 12}
+        - {x: -8, y: 8}
+        - {x: -12, y: 2}
+        - {x: -12, y: -7}
+        - {x: -11, y: -13}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 12, y: -13}
+        - {x: 12, y: 5}
+        - {x: 6, y: 12}
+    - name: Robot1_Down5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 12}
+        - {x: -4, y: 12}
+        - {x: -8, y: 8}
+        - {x: -12, y: 3}
+        - {x: -12, y: -13}
+        - {x: -8, y: -16}
+        - {x: 7, y: -16}
+        - {x: 12, y: -8}
+        - {x: 12, y: 0}
+        - {x: 9, y: 9}
+    - name: Robot1_Down6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 12}
+        - {x: -8, y: 8}
+        - {x: -12, y: 3}
+        - {x: -12, y: -15}
+        - {x: -10, y: -16}
+        - {x: 10, y: -16}
+        - {x: 12, y: -13}
+        - {x: 12, y: 2}
+        - {x: 6, y: 12}
+    - name: Robot1_Down7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 12}
+        - {x: -8, y: 12}
+        - {x: -12, y: 8}
+        - {x: -12, y: -13}
+        - {x: -11, y: -16}
+        - {x: 7, y: -16}
+        - {x: 12, y: -8}
+        - {x: 12, y: 4}
+        - {x: 11, y: 10}
+    - name: Robot1_Down8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 12}
+        - {x: -8, y: 8}
+        - {x: -12, y: 3}
+        - {x: -12, y: -15}
+        - {x: -10, y: -16}
+        - {x: 10, y: -16}
+        - {x: 12, y: -13}
+        - {x: 12, y: 2}
+        - {x: 6, y: 12}
+    - name: Robot1_Down9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 12}
+        - {x: -4, y: 12}
+        - {x: -8, y: 8}
+        - {x: -12, y: 3}
+        - {x: -12, y: -13}
+        - {x: -8, y: -16}
+        - {x: 7, y: -16}
+        - {x: 12, y: -8}
+        - {x: 12, y: 0}
+        - {x: 9, y: 9}
+    - name: Robot1_Right1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 12}
+        - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: -10, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 6}
+        - {x: 6, y: 12}
+    - name: Robot1_Right2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 12}
+        - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: -10, y: -16}
+        - {x: 8, y: -16}
+        - {x: 10, y: -13}
+        - {x: 10, y: 11}
+        - {x: 5, y: 12}
+    - name: Robot1_Right3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 12}
+        - {x: -12, y: 3}
+        - {x: -12, y: -9}
+        - {x: -11, y: -13}
+        - {x: -9, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 5}
+        - {x: 6, y: 12}
+    - name: Robot1_Right4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 12}
+        - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: -10, y: -16}
+        - {x: 8, y: -16}
+        - {x: 10, y: -13}
+        - {x: 10, y: 11}
+        - {x: 5, y: 12}
+    - name: Robot1_Right5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 12}
+        - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: -10, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 6}
+        - {x: 6, y: 12}
+    - name: Robot1_Right6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 8}
+        - {x: 4, y: 12}
+        - {x: -4, y: 12}
+        - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: -10, y: -16}
+        - {x: 9, y: -16}
+        - {x: 10, y: -14}
+        - {x: 10, y: 0}
+    - name: Robot1_Right7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 12}
+        - {x: -12, y: 5}
+        - {x: -12, y: -8}
+        - {x: -9, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 5}
+        - {x: 6, y: 12}
+    - name: Robot1_Right8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 8}
+        - {x: 4, y: 12}
+        - {x: -4, y: 12}
+        - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: -10, y: -16}
+        - {x: 9, y: -16}
+        - {x: 10, y: -14}
+        - {x: 10, y: 0}
+    - name: Robot1_Right9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 12}
+        - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: -10, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 6}
+        - {x: 6, y: 12}
+    - name: Robot1_Shoot_Right1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 12}
+        - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: -10, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 6}
+        - {x: 6, y: 12}
+    - name: Robot1_Shoot_Right2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 12}
+        - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: -7, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 5}
+        - {x: 7, y: 12}
+    - name: Robot1_Shoot_Right3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 12}
+        - {x: -12, y: 6}
+        - {x: -12, y: -8}
+        - {x: -8, y: -16}
+        - {x: 9, y: -16}
+        - {x: 10, y: -14}
+        - {x: 10, y: 10}
+        - {x: 4, y: 12}
+    - name: Robot1_Shoot_Right4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 12}
+        - {x: -12, y: 6}
+        - {x: -12, y: -8}
+        - {x: -8, y: -16}
+        - {x: 9, y: -16}
+        - {x: 10, y: -14}
+        - {x: 10, y: 10}
+        - {x: 4, y: 12}
+    - name: Robot1_Shoot_Right5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 12}
+        - {x: -12, y: 6}
+        - {x: -12, y: -8}
+        - {x: -8, y: -16}
+        - {x: 9, y: -16}
+        - {x: 10, y: -14}
+        - {x: 10, y: 10}
+        - {x: 4, y: 12}
+    - name: Robot1_Shoot_Right6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 12}
+        - {x: -10, y: 10}
+        - {x: -12, y: 7}
+        - {x: -12, y: -8}
+        - {x: -8, y: -16}
+        - {x: 9, y: -16}
+        - {x: 16, y: -7}
+        - {x: 16, y: 5}
+        - {x: 9, y: 12}
+    - name: Robot1_Shoot_Right7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 12}
+        - {x: -12, y: 6}
+        - {x: -12, y: -8}
+        - {x: -8, y: -16}
+        - {x: 9, y: -16}
+        - {x: 10, y: -14}
+        - {x: 10, y: 10}
+        - {x: 4, y: 12}
+    - name: Robot1_Shoot_Right8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 12}
+        - {x: -12, y: 6}
+        - {x: -12, y: -8}
+        - {x: -8, y: -16}
+        - {x: 9, y: -16}
+        - {x: 10, y: -14}
+        - {x: 10, y: 10}
+        - {x: 4, y: 12}
+    - name: Robot1_Shoot_Right9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 12}
+        - {x: -12, y: 6}
+        - {x: -12, y: -8}
+        - {x: -8, y: -16}
+        - {x: 9, y: -16}
+        - {x: 10, y: -14}
+        - {x: 10, y: 10}
+        - {x: 4, y: 12}
+    - name: Robot1_Shoot_Right10
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 12}
+        - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: -10, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 6}
+        - {x: 6, y: 12}
+    - name: Robot2_Up1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 12}
+        - {x: -8, y: 12}
+        - {x: -12, y: 5}
+        - {x: -12, y: -5}
+        - {x: -7, y: -16}
+        - {x: 9, y: -16}
+        - {x: 12, y: -10}
+        - {x: 12, y: 0}
+        - {x: 10, y: 10}
+    - name: Robot2_Up2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 12}
+        - {x: -4, y: 12}
+        - {x: -11, y: 10}
+        - {x: -12, y: 9}
+        - {x: -12, y: -11}
+        - {x: -7, y: -16}
+        - {x: 9, y: -16}
+        - {x: 12, y: -9}
+        - {x: 12, y: 0}
+    - name: Robot2_Up3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 12}
+        - {x: -7, y: 12}
+        - {x: -12, y: 3}
+        - {x: -12, y: -7}
+        - {x: -10, y: -16}
+        - {x: 10, y: -16}
+        - {x: 12, y: -12}
+        - {x: 12, y: 5}
+        - {x: 11, y: 10}
+    - name: Robot2_Up4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 12}
+        - {x: -4, y: 12}
+        - {x: -11, y: 10}
+        - {x: -12, y: 9}
+        - {x: -12, y: -11}
+        - {x: -7, y: -16}
+        - {x: 9, y: -16}
+        - {x: 12, y: -9}
+        - {x: 12, y: 0}
+    - name: Robot2_Up5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 12}
+        - {x: -8, y: 12}
+        - {x: -12, y: 5}
+        - {x: -12, y: -5}
+        - {x: -7, y: -16}
+        - {x: 9, y: -16}
+        - {x: 12, y: -10}
+        - {x: 12, y: 0}
+        - {x: 10, y: 10}
+    - name: Robot2_Up6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 12}
+        - {x: -12, y: 6}
+        - {x: -12, y: -11}
+        - {x: -7, y: -16}
+        - {x: 10, y: -16}
+        - {x: 12, y: -15}
+        - {x: 12, y: 3}
+        - {x: 5, y: 12}
+    - name: Robot2_Up7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 12}
+        - {x: -12, y: 4}
+        - {x: -12, y: -5}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 12, y: -12}
+        - {x: 12, y: 3}
+        - {x: 8, y: 12}
+    - name: Robot2_Up8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 12}
+        - {x: -12, y: 6}
+        - {x: -12, y: -11}
+        - {x: -7, y: -16}
+        - {x: 10, y: -16}
+        - {x: 12, y: -15}
+        - {x: 12, y: 3}
+        - {x: 5, y: 12}
+    - name: Robot2_Up9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 12}
+        - {x: -8, y: 12}
+        - {x: -12, y: 5}
+        - {x: -12, y: -5}
+        - {x: -7, y: -16}
+        - {x: 9, y: -16}
+        - {x: 12, y: -10}
+        - {x: 12, y: 0}
+        - {x: 10, y: 10}
+    - name: Robot2_Down1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 13}
+        - {x: -4, y: 13}
+        - {x: -10, y: 11}
+        - {x: -12, y: 9}
+        - {x: -12, y: -12}
+        - {x: -11, y: -16}
+        - {x: 11, y: -16}
+        - {x: 12, y: -10}
+        - {x: 12, y: 6}
+    - name: Robot2_Down2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 13}
+        - {x: -8, y: 9}
+        - {x: -12, y: 3}
+        - {x: -12, y: -13}
+        - {x: -6, y: -16}
+        - {x: 11, y: -16}
+        - {x: 12, y: -11}
+        - {x: 12, y: 5}
+        - {x: 5, y: 13}
+    - name: Robot2_Down3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 13}
+        - {x: -8, y: 13}
+        - {x: -12, y: 9}
+        - {x: -12, y: -12}
+        - {x: -10, y: -16}
+        - {x: 7, y: -16}
+        - {x: 12, y: -8}
+        - {x: 12, y: 6}
+        - {x: 11, y: 11}
+    - name: Robot2_Down4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 13}
+        - {x: -8, y: 9}
+        - {x: -12, y: 3}
+        - {x: -12, y: -13}
+        - {x: -6, y: -16}
+        - {x: 11, y: -16}
+        - {x: 12, y: -11}
+        - {x: 12, y: 5}
+        - {x: 5, y: 13}
+    - name: Robot2_Down5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 13}
+        - {x: -4, y: 13}
+        - {x: -10, y: 11}
+        - {x: -12, y: 9}
+        - {x: -12, y: -12}
+        - {x: -11, y: -16}
+        - {x: 11, y: -16}
+        - {x: 12, y: -10}
+        - {x: 12, y: 6}
+    - name: Robot2_Down6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 13}
+        - {x: -10, y: 11}
+        - {x: -12, y: 8}
+        - {x: -12, y: -12}
+        - {x: -11, y: -16}
+        - {x: 9, y: -16}
+        - {x: 12, y: -6}
+        - {x: 12, y: 6}
+        - {x: 8, y: 13}
+    - name: Robot2_Down7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 13}
+        - {x: -9, y: 13}
+        - {x: -12, y: 9}
+        - {x: -12, y: -10}
+        - {x: -9, y: -16}
+        - {x: 6, y: -16}
+        - {x: 12, y: -6}
+        - {x: 12, y: 2}
+        - {x: 10, y: 11}
+    - name: Robot2_Down8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 13}
+        - {x: -10, y: 11}
+        - {x: -12, y: 8}
+        - {x: -12, y: -12}
+        - {x: -11, y: -16}
+        - {x: 9, y: -16}
+        - {x: 12, y: -6}
+        - {x: 12, y: 6}
+        - {x: 8, y: 13}
+    - name: Robot2_Down9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 13}
+        - {x: -4, y: 13}
+        - {x: -10, y: 11}
+        - {x: -12, y: 9}
+        - {x: -12, y: -12}
+        - {x: -11, y: -16}
+        - {x: 11, y: -16}
+        - {x: 12, y: -10}
+        - {x: 12, y: 6}
+    - name: Robot2_Right1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 12}
+        - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: -10, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 6}
+        - {x: 6, y: 12}
+    - name: Robot2_Right2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 12}
+        - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: -10, y: -16}
+        - {x: 8, y: -16}
+        - {x: 10, y: -13}
+        - {x: 10, y: 11}
+        - {x: 5, y: 12}
+    - name: Robot2_Right3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 12}
+        - {x: -12, y: 3}
+        - {x: -12, y: -9}
+        - {x: -11, y: -13}
+        - {x: -9, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 5}
+        - {x: 6, y: 12}
+    - name: Robot2_Right4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 12}
+        - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: -10, y: -16}
+        - {x: 8, y: -16}
+        - {x: 10, y: -13}
+        - {x: 10, y: 11}
+        - {x: 5, y: 12}
+    - name: Robot2_Right5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 12}
+        - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: -10, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 6}
+        - {x: 6, y: 12}
+    - name: Robot2_Right6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 8}
+        - {x: 4, y: 12}
+        - {x: -4, y: 12}
+        - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: -10, y: -16}
+        - {x: 9, y: -16}
+        - {x: 10, y: -14}
+        - {x: 10, y: 0}
+    - name: Robot2_Right7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 12}
+        - {x: -12, y: 5}
+        - {x: -12, y: -8}
+        - {x: -9, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 5}
+        - {x: 6, y: 12}
+    - name: Robot2_Right8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 8}
+        - {x: 4, y: 12}
+        - {x: -4, y: 12}
+        - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: -10, y: -16}
+        - {x: 9, y: -16}
+        - {x: 10, y: -14}
+        - {x: 10, y: 0}
+    - name: Robot2_Right9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 12}
+        - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: -10, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 6}
+        - {x: 6, y: 12}
+    - name: Robot2_Shoot_Right1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 12}
+        - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: -10, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 6}
+        - {x: 6, y: 12}
+    - name: Robot2_Shoot_Right2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 12}
+        - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: -7, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 5}
+        - {x: 7, y: 12}
+    - name: Robot2_Shoot_Right3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 12}
+        - {x: -12, y: 6}
+        - {x: -12, y: -8}
+        - {x: -8, y: -16}
+        - {x: 9, y: -16}
+        - {x: 10, y: -14}
+        - {x: 10, y: 10}
+        - {x: 4, y: 12}
+    - name: Robot2_Shoot_Right4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 12}
+        - {x: -12, y: 6}
+        - {x: -12, y: -8}
+        - {x: -8, y: -16}
+        - {x: 9, y: -16}
+        - {x: 10, y: -14}
+        - {x: 10, y: 10}
+        - {x: 4, y: 12}
+    - name: Robot2_Shoot_Right5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 12}
+        - {x: -12, y: 6}
+        - {x: -12, y: -8}
+        - {x: -8, y: -16}
+        - {x: 9, y: -16}
+        - {x: 10, y: -14}
+        - {x: 10, y: 10}
+        - {x: 4, y: 12}
+    - name: Robot2_Shoot_Right6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 12}
+        - {x: -10, y: 10}
+        - {x: -12, y: 7}
+        - {x: -12, y: -8}
+        - {x: -8, y: -16}
+        - {x: 9, y: -16}
+        - {x: 16, y: -7}
+        - {x: 16, y: 5}
+        - {x: 9, y: 12}
+    - name: Robot2_Shoot_Right7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 12}
+        - {x: -12, y: 6}
+        - {x: -12, y: -8}
+        - {x: -8, y: -16}
+        - {x: 9, y: -16}
+        - {x: 10, y: -14}
+        - {x: 10, y: 10}
+        - {x: 4, y: 12}
+    - name: Robot2_Shoot_Right8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 12}
+        - {x: -12, y: 6}
+        - {x: -12, y: -8}
+        - {x: -8, y: -16}
+        - {x: 9, y: -16}
+        - {x: 10, y: -14}
+        - {x: 10, y: 10}
+        - {x: 4, y: 12}
+    - name: Robot2_Shoot_Right9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 12}
+        - {x: -12, y: 6}
+        - {x: -12, y: -8}
+        - {x: -8, y: -16}
+        - {x: 9, y: -16}
+        - {x: 10, y: -14}
+        - {x: 10, y: 10}
+        - {x: 4, y: 12}
+    - name: Robot2_Shoot_Right10
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 12}
+        - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: -10, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 6}
+        - {x: 6, y: 12}
+    - name: Player_Down1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 16}
+        - {x: -12, y: 7}
+        - {x: -12, y: -7}
+        - {x: -9, y: -16}
+        - {x: 12, y: -16}
+        - {x: 12, y: 16}
+    - name: Player_Down2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 16}
+        - {x: -7, y: 16}
+        - {x: -12, y: 7}
+        - {x: -12, y: -5}
+        - {x: -8, y: -16}
+        - {x: 6, y: -16}
+        - {x: 12, y: -8}
+        - {x: 12, y: 6}
+        - {x: 10, y: 14}
+    - name: Player_Down3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 16}
+        - {x: -12, y: 7}
+        - {x: -12, y: -7}
+        - {x: -9, y: -16}
+        - {x: 12, y: -16}
+        - {x: 12, y: 16}
+    - name: Player_Down4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 16}
+        - {x: -8, y: 12}
+        - {x: -12, y: 6}
+        - {x: -12, y: -5}
+        - {x: -9, y: -16}
+        - {x: 8, y: -16}
+        - {x: 12, y: -13}
+        - {x: 12, y: 10}
+        - {x: 8, y: 16}
+    - name: Player_Down5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 16}
+        - {x: -4, y: 16}
+        - {x: -8, y: 12}
+        - {x: -12, y: 5}
+        - {x: -12, y: -6}
+        - {x: -11, y: -9}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 12, y: -13}
+        - {x: 12, y: 10}
+    - name: Player_Down6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -13}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 12, y: -13}
+        - {x: 12, y: 11}
+        - {x: 9, y: 16}
+        - {x: -11, y: 16}
+        - {x: -12, y: 14}
+    - name: Player_Down7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 16}
+        - {x: -4, y: 16}
+        - {x: -8, y: 12}
+        - {x: -12, y: 5}
+        - {x: -12, y: -6}
+        - {x: -11, y: -9}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 12, y: -13}
+        - {x: 12, y: 10}
+    - name: Player_Down8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 16}
+        - {x: -8, y: 12}
+        - {x: -12, y: 6}
+        - {x: -12, y: -5}
+        - {x: -9, y: -16}
+        - {x: 8, y: -16}
+        - {x: 12, y: -13}
+        - {x: 12, y: 10}
+        - {x: 8, y: 16}
+    - name: Player_Right1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 16}
+        - {x: -12, y: 8}
+        - {x: -12, y: -8}
+        - {x: -9, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 15}
+        - {x: 4, y: 16}
+    - name: Player_Right2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 16}
+        - {x: -4, y: 16}
+        - {x: -11, y: 15}
+        - {x: -12, y: 12}
+        - {x: -12, y: -15}
+        - {x: -11, y: -16}
+        - {x: 8, y: -16}
+        - {x: 10, y: -14}
+        - {x: 10, y: 10}
+        - {x: 9, y: 13}
+    - name: Player_Right3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -12, y: 15}
+        - {x: -12, y: -13}
+        - {x: -7, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 12}
+        - {x: 7, y: 16}
+    - name: Player_Right4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 16}
+        - {x: -4, y: 16}
+        - {x: -11, y: 15}
+        - {x: -12, y: 12}
+        - {x: -12, y: -15}
+        - {x: -11, y: -16}
+        - {x: 8, y: -16}
+        - {x: 10, y: -14}
+        - {x: 10, y: 10}
+        - {x: 9, y: 13}
+    - name: Player_Right5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 16}
+        - {x: -12, y: 8}
+        - {x: -12, y: -8}
+        - {x: -9, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 15}
+        - {x: 4, y: 16}
+    - name: Player_Right6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -12, y: 7}
+        - {x: -12, y: -6}
+        - {x: -9, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 14}
+        - {x: 4, y: 16}
+    - name: Player_Right7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -12, y: 7}
+        - {x: -12, y: -6}
+        - {x: -11, y: -9}
+        - {x: -2, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 8}
+        - {x: 7, y: 16}
+    - name: Player_Right8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -12, y: 7}
+        - {x: -12, y: -6}
+        - {x: -9, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 14}
+        - {x: 4, y: 16}
+    - name: Player_Right9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 16}
+        - {x: -12, y: 8}
+        - {x: -12, y: -8}
+        - {x: -9, y: -16}
+        - {x: 10, y: -16}
+        - {x: 10, y: 15}
+        - {x: 4, y: 16}
+    - name: Player_Up1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 16}
+        - {x: -4, y: 16}
+        - {x: -8, y: 12}
+        - {x: -12, y: 5}
+        - {x: -12, y: -6}
+        - {x: -11, y: -9}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 12, y: -13}
+        - {x: 12, y: 10}
+    - name: Player_Up2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: -13}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 12, y: -13}
+        - {x: 12, y: 11}
+        - {x: 9, y: 16}
+        - {x: -11, y: 16}
+        - {x: -12, y: 14}
+    - name: Player_Up3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 16}
+        - {x: -4, y: 16}
+        - {x: -8, y: 12}
+        - {x: -12, y: 5}
+        - {x: -12, y: -6}
+        - {x: -11, y: -9}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 12, y: -13}
+        - {x: 12, y: 10}
+    - name: Player_Up4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 16}
+        - {x: -8, y: 12}
+        - {x: -12, y: 6}
+        - {x: -12, y: -5}
+        - {x: -9, y: -16}
+        - {x: 8, y: -16}
+        - {x: 12, y: -13}
+        - {x: 12, y: 10}
+        - {x: 8, y: 16}
+    - name: Player_Up5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 16}
+        - {x: -12, y: 7}
+        - {x: -12, y: -7}
+        - {x: -9, y: -16}
+        - {x: 12, y: -16}
+        - {x: 12, y: 16}
+    - name: Player_Up6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 16}
+        - {x: -7, y: 16}
+        - {x: -12, y: 7}
+        - {x: -12, y: -5}
+        - {x: -8, y: -16}
+        - {x: 6, y: -16}
+        - {x: 12, y: -8}
+        - {x: 12, y: 6}
+        - {x: 10, y: 14}
+    - name: Player_Up7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 16}
+        - {x: -12, y: 7}
+        - {x: -12, y: -7}
+        - {x: -9, y: -16}
+        - {x: 12, y: -16}
+        - {x: 12, y: 16}
+    - name: Player_Up8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 16}
+        - {x: -8, y: 12}
+        - {x: -12, y: 6}
+        - {x: -12, y: -5}
+        - {x: -9, y: -16}
+        - {x: 8, y: -16}
+        - {x: 12, y: -13}
+        - {x: 12, y: 10}
+        - {x: 8, y: 16}
+    - name: Robot1_Shoot_Up1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 13}
+        - {x: -12, y: 8}
+        - {x: -12, y: -14}
+        - {x: -9, y: -16}
+        - {x: 11, y: -16}
+        - {x: 12, y: -13}
+        - {x: 12, y: 8}
+        - {x: 6, y: 13}
+    - name: Robot1_Shoot_Up2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 13}
+        - {x: -10, y: 11}
+        - {x: -12, y: 6}
+        - {x: -12, y: -4}
+        - {x: -9, y: -16}
+        - {x: 11, y: -16}
+        - {x: 12, y: -12}
+        - {x: 12, y: 9}
+        - {x: 9, y: 13}
+    - name: Robot1_Shoot_Up3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 13}
+        - {x: -6, y: 13}
+        - {x: -12, y: 4}
+        - {x: -12, y: -4}
+        - {x: -9, y: -16}
+        - {x: 9, y: -16}
+        - {x: 12, y: -14}
+        - {x: 12, y: 10}
+        - {x: 11, y: 12}
+    - name: Robot1_Shoot_Up4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 13}
+        - {x: -6, y: 13}
+        - {x: -12, y: 4}
+        - {x: -12, y: -4}
+        - {x: -9, y: -16}
+        - {x: 9, y: -16}
+        - {x: 12, y: -14}
+        - {x: 12, y: 10}
+        - {x: 11, y: 12}
+    - name: Robot1_Shoot_Up5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 13}
+        - {x: -12, y: 13}
+        - {x: -12, y: -16}
+        - {x: 12, y: -16}
+        - {x: 12, y: 4}
+        - {x: 10, y: 11}
+    - name: Robot1_Shoot_Up6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 13}
+        - {x: -12, y: -16}
+        - {x: 9, y: -16}
+        - {x: 12, y: -14}
+        - {x: 12, y: 10}
+        - {x: 10, y: 13}
+    - name: Robot1_Shoot_Up7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 13}
+        - {x: -6, y: 13}
+        - {x: -12, y: 4}
+        - {x: -12, y: -4}
+        - {x: -9, y: -16}
+        - {x: 9, y: -16}
+        - {x: 12, y: -14}
+        - {x: 12, y: 10}
+        - {x: 11, y: 12}
+    - name: Robot1_Shoot_Up8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 13}
+        - {x: -6, y: 13}
+        - {x: -12, y: 4}
+        - {x: -12, y: -4}
+        - {x: -9, y: -16}
+        - {x: 9, y: -16}
+        - {x: 12, y: -14}
+        - {x: 12, y: 10}
+        - {x: 11, y: 12}
+    - name: Robot1_Shoot_Up9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 13}
+        - {x: -10, y: 11}
+        - {x: -12, y: 6}
+        - {x: -12, y: -4}
+        - {x: -9, y: -16}
+        - {x: 11, y: -16}
+        - {x: 12, y: -12}
+        - {x: 12, y: 9}
+        - {x: 9, y: 13}
+    - name: Robot1_Shoot_Up10
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 13}
+        - {x: -12, y: 8}
+        - {x: -12, y: -14}
+        - {x: -9, y: -16}
+        - {x: 11, y: -16}
+        - {x: 12, y: -13}
+        - {x: 12, y: 8}
+        - {x: 6, y: 13}
+    - name: Robot1Hacked_Shoot_Down1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 13}
+        - {x: -4, y: 13}
+        - {x: -10, y: 11}
+        - {x: -12, y: 9}
+        - {x: -12, y: -12}
+        - {x: -11, y: -16}
+        - {x: 11, y: -16}
+        - {x: 12, y: -10}
+        - {x: 12, y: 6}
+    - name: Robot1Hacked_Shoot_Down2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 13}
+        - {x: -12, y: 6}
+        - {x: -12, y: -6}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 12, y: -12}
+        - {x: 12, y: 6}
+        - {x: 6, y: 13}
+    - name: Robot1Hacked_Shoot_Down3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 13}
+        - {x: -6, y: 13}
+        - {x: -12, y: 5}
+        - {x: -12, y: -6}
+        - {x: -7, y: -16}
+        - {x: 8, y: -16}
+        - {x: 12, y: -11}
+        - {x: 12, y: 5}
+        - {x: 9, y: 10}
+    - name: Robot1Hacked_Shoot_Down4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 13}
+        - {x: -6, y: 13}
+        - {x: -12, y: 5}
+        - {x: -12, y: -6}
+        - {x: -7, y: -16}
+        - {x: 8, y: -16}
+        - {x: 12, y: -11}
+        - {x: 12, y: 5}
+        - {x: 9, y: 10}
+    - name: Robot1Hacked_Shoot_Down5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 13}
+        - {x: -6, y: 13}
+        - {x: -12, y: 5}
+        - {x: -12, y: -6}
+        - {x: -7, y: -16}
+        - {x: 8, y: -16}
+        - {x: 12, y: -11}
+        - {x: 12, y: 5}
+        - {x: 9, y: 10}
+    - name: Robot1Hacked_Shoot_Down6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 13}
+        - {x: -6, y: 13}
+        - {x: -12, y: 5}
+        - {x: -12, y: -6}
+        - {x: -7, y: -16}
+        - {x: 8, y: -16}
+        - {x: 12, y: -11}
+        - {x: 12, y: 5}
+        - {x: 9, y: 10}
+    - name: Robot1Hacked_Shoot_Down7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 13}
+        - {x: -6, y: 13}
+        - {x: -12, y: 5}
+        - {x: -12, y: -6}
+        - {x: -7, y: -16}
+        - {x: 8, y: -16}
+        - {x: 12, y: -11}
+        - {x: 12, y: 5}
+        - {x: 9, y: 10}
+    - name: Robot1Hacked_Shoot_Down8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 13}
+        - {x: -6, y: 13}
+        - {x: -12, y: 5}
+        - {x: -12, y: -6}
+        - {x: -7, y: -16}
+        - {x: 8, y: -16}
+        - {x: 12, y: -11}
+        - {x: 12, y: 5}
+        - {x: 9, y: 10}
+    - name: Robot1Hacked_Shoot_Down9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 13}
+        - {x: -12, y: 6}
+        - {x: -12, y: -6}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 12, y: -12}
+        - {x: 12, y: 6}
+        - {x: 6, y: 13}
+    - name: Robot1Hacked_Shoot_Down10
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 13}
+        - {x: -4, y: 13}
+        - {x: -10, y: 11}
+        - {x: -12, y: 9}
+        - {x: -12, y: -12}
+        - {x: -11, y: -16}
+        - {x: 11, y: -16}
+        - {x: 12, y: -10}
+        - {x: 12, y: 6}
+    - name: Robot1_Shoot_Down1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 12}
+        - {x: -4, y: 12}
+        - {x: -8, y: 8}
+        - {x: -12, y: 3}
+        - {x: -12, y: -13}
+        - {x: -8, y: -16}
+        - {x: 7, y: -16}
+        - {x: 12, y: -8}
+        - {x: 12, y: 0}
+        - {x: 9, y: 9}
+    - name: Robot1_Shoot_Down2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 12}
+        - {x: -8, y: 12}
+        - {x: -12, y: 4}
+        - {x: -12, y: -5}
+        - {x: -7, y: -16}
+        - {x: 8, y: -16}
+        - {x: 12, y: -12}
+        - {x: 12, y: 7}
+        - {x: 10, y: 10}
+    - name: Robot1_Shoot_Down3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: -11}
+        - {x: 12, y: 3}
+        - {x: 7, y: 12}
+        - {x: -10, y: 12}
+        - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+    - name: Robot1_Shoot_Down4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: -11}
+        - {x: 12, y: 3}
+        - {x: 7, y: 12}
+        - {x: -10, y: 12}
+        - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+    - name: Robot1_Shoot_Down5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: -11}
+        - {x: 12, y: 3}
+        - {x: 7, y: 12}
+        - {x: -10, y: 12}
+        - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+    - name: Robot1_Shoot_Down6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: -11}
+        - {x: 12, y: 3}
+        - {x: 7, y: 12}
+        - {x: -10, y: 12}
+        - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+    - name: Robot1_Shoot_Down7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: -11}
+        - {x: 12, y: 3}
+        - {x: 7, y: 12}
+        - {x: -10, y: 12}
+        - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+    - name: Robot1_Shoot_Down8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: -11}
+        - {x: 12, y: 3}
+        - {x: 7, y: 12}
+        - {x: -10, y: 12}
+        - {x: -12, y: 7}
+        - {x: -12, y: -12}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+    - name: Robot1_Shoot_Down9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 12}
+        - {x: -8, y: 12}
+        - {x: -12, y: 4}
+        - {x: -12, y: -5}
+        - {x: -7, y: -16}
+        - {x: 8, y: -16}
+        - {x: 12, y: -12}
+        - {x: 12, y: 7}
+        - {x: 10, y: 10}
+    - name: Robot1_Shoot_Down10
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 12}
+        - {x: -4, y: 12}
+        - {x: -8, y: 8}
+        - {x: -12, y: 3}
+        - {x: -12, y: -13}
+        - {x: -8, y: -16}
+        - {x: 7, y: -16}
+        - {x: 12, y: -8}
+        - {x: 12, y: 0}
+        - {x: 9, y: 9}
+    - name: Robot2_Shoot_Up1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 12}
+        - {x: -8, y: 12}
+        - {x: -12, y: 5}
+        - {x: -12, y: -5}
+        - {x: -7, y: -16}
+        - {x: 9, y: -16}
+        - {x: 12, y: -10}
+        - {x: 12, y: 0}
+        - {x: 10, y: 10}
+    - name: Robot2_Shoot_Up2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: -11}
+        - {x: 12, y: 3}
+        - {x: 8, y: 12}
+        - {x: -10, y: 12}
+        - {x: -12, y: 6}
+        - {x: -12, y: -11}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+    - name: Robot2_Shoot_Up3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 12}
+        - {x: -7, y: 12}
+        - {x: -12, y: 4}
+        - {x: -12, y: -5}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 12, y: -10}
+        - {x: 12, y: 5}
+        - {x: 10, y: 10}
+    - name: Robot2_Shoot_Up4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 12}
+        - {x: -7, y: 12}
+        - {x: -12, y: 4}
+        - {x: -12, y: -5}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 12, y: -10}
+        - {x: 12, y: 5}
+        - {x: 10, y: 10}
+    - name: Robot2_Shoot_Up5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 12}
+        - {x: -6, y: 12}
+        - {x: -12, y: 4}
+        - {x: -12, y: -5}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 12, y: -10}
+        - {x: 12, y: 3}
+        - {x: 10, y: 10}
+    - name: Robot2_Shoot_Up6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 12}
+        - {x: -12, y: 5}
+        - {x: -12, y: -5}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 12, y: -8}
+        - {x: 12, y: 9}
+        - {x: 4, y: 12}
+    - name: Robot2_Shoot_Up7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 12}
+        - {x: -7, y: 12}
+        - {x: -12, y: 4}
+        - {x: -12, y: -5}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 12, y: -10}
+        - {x: 12, y: 5}
+        - {x: 10, y: 10}
+    - name: Robot2_Shoot_Up8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 12}
+        - {x: -7, y: 12}
+        - {x: -12, y: 4}
+        - {x: -12, y: -5}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+        - {x: 12, y: -10}
+        - {x: 12, y: 5}
+        - {x: 10, y: 10}
+    - name: Robot2_Shoot_Up9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: -11}
+        - {x: 12, y: 3}
+        - {x: 8, y: 12}
+        - {x: -10, y: 12}
+        - {x: -12, y: 6}
+        - {x: -12, y: -11}
+        - {x: -7, y: -16}
+        - {x: 7, y: -16}
+    - name: Robot2_Shoot_Up10
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 12}
+        - {x: -8, y: 12}
+        - {x: -12, y: 5}
+        - {x: -12, y: -5}
+        - {x: -7, y: -16}
+        - {x: 9, y: -16}
+        - {x: 12, y: -10}
+        - {x: 12, y: 0}
+        - {x: 10, y: 10}
+    - name: Robot2_Shoot_Down1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 13}
+        - {x: -4, y: 13}
+        - {x: -10, y: 11}
+        - {x: -12, y: 9}
+        - {x: -12, y: -12}
+        - {x: -11, y: -16}
+        - {x: 11, y: -16}
+        - {x: 12, y: -10}
+        - {x: 12, y: 6}
+    - name: Robot2_Shoot_Down2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 13}
+        - {x: -12, y: 6}
+        - {x: -12, y: -6}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 12, y: -12}
+        - {x: 12, y: 6}
+        - {x: 6, y: 13}
+    - name: Robot2_Shoot_Down3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 13}
+        - {x: -6, y: 13}
+        - {x: -12, y: 5}
+        - {x: -12, y: -6}
+        - {x: -7, y: -16}
+        - {x: 8, y: -16}
+        - {x: 12, y: -11}
+        - {x: 12, y: 5}
+        - {x: 9, y: 10}
+    - name: Robot2_Shoot_Down4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 13}
+        - {x: -6, y: 13}
+        - {x: -12, y: 5}
+        - {x: -12, y: -6}
+        - {x: -7, y: -16}
+        - {x: 8, y: -16}
+        - {x: 12, y: -11}
+        - {x: 12, y: 5}
+        - {x: 9, y: 10}
+    - name: Robot2_Shoot_Down5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 13}
+        - {x: -6, y: 13}
+        - {x: -12, y: 5}
+        - {x: -12, y: -6}
+        - {x: -7, y: -16}
+        - {x: 8, y: -16}
+        - {x: 12, y: -11}
+        - {x: 12, y: 5}
+        - {x: 9, y: 10}
+    - name: Robot2_Shoot_Down6
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 13}
+        - {x: -6, y: 13}
+        - {x: -12, y: 5}
+        - {x: -12, y: -6}
+        - {x: -7, y: -16}
+        - {x: 8, y: -16}
+        - {x: 12, y: -11}
+        - {x: 12, y: 5}
+        - {x: 9, y: 10}
+    - name: Robot2_Shoot_Down7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 13}
+        - {x: -6, y: 13}
+        - {x: -12, y: 5}
+        - {x: -12, y: -6}
+        - {x: -7, y: -16}
+        - {x: 8, y: -16}
+        - {x: 12, y: -11}
+        - {x: 12, y: 5}
+        - {x: 9, y: 10}
+    - name: Robot2_Shoot_Down8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 13}
+        - {x: -6, y: 13}
+        - {x: -12, y: 5}
+        - {x: -12, y: -6}
+        - {x: -7, y: -16}
+        - {x: 8, y: -16}
+        - {x: 12, y: -11}
+        - {x: 12, y: 5}
+        - {x: 9, y: 10}
+    - name: Robot2_Shoot_Down9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 13}
+        - {x: -12, y: 6}
+        - {x: -12, y: -6}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 12, y: -12}
+        - {x: 12, y: 6}
+        - {x: 6, y: 13}
+    - name: Robot2_Shoot_Down10
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 13}
+        - {x: -4, y: 13}
+        - {x: -10, y: 11}
+        - {x: -12, y: 9}
+        - {x: -12, y: -12}
+        - {x: -11, y: -16}
+        - {x: 11, y: -16}
+        - {x: 12, y: -10}
+        - {x: 12, y: 6}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
